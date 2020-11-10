@@ -1,4 +1,4 @@
 package com.example.testapplication;
 
-public class sub {
+public class sub extends Main{
 }
